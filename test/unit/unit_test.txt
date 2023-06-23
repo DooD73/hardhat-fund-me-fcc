@@ -1,0 +1,8 @@
+What is unit testing?
+Unit Testing is a software testing method by which individual units of source code are tested
+
+Unit test are done locally
+
+unit tests can be done with:
+- local hardhatw
+- forked hardhat 

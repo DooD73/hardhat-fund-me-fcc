@@ -1,0 +1,7 @@
+What is a staging test?
+After testing single units with unit testing, we run a staging or integration test, this may be where we 
+run our code on a testnet or some actual networks
+
+Think of a staging test as a LAST STOP before deploying to a mainnet
+
+Not necessary, but really HELPFUL!
